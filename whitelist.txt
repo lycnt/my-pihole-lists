@@ -4,14 +4,12 @@
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
-alluremedia.com.au
 amazonaws.com
 android.clients.google.com
 api.ipify.org
 api.rlje.net
 app-api.ted.com
 appleid.apple.com
-app.plex.tv
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
@@ -21,7 +19,6 @@ aspnetcdn.com
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
 brightcove.net
-bufferapp.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn.cloudflare.net
@@ -65,7 +62,6 @@ drift.com
 driftt.com
 dynupdate.no-ip.com
 ecn.dev.virtualearth.net
-ec-ns.sascdn.com
 edge.api.brightcove.com
 eds.xboxlive.com
 fonts.gstatic.com
@@ -89,9 +85,7 @@ imgs.xkcd.com
 img.vidible.tv
 instantmessaging-pa.googleapis.com
 intercom.io
-i.s-microsoft.com
 i.ytimg.com
-j.mp
 jquery.com
 jsdelivr.net
 keystone.mwbsys.com
@@ -99,7 +93,6 @@ lastfm-img2.akamaized.net
 licensing.xboxlive.com
 live.com
 livepassdl.conviva.com
-login.aliexpress.com
 login.live.com
 login.microsoftonline.com
 manifest.googlevideo.com
@@ -129,7 +122,6 @@ onedrive.live.com
 outlook.live.com
 outlook.office365.com
 pings.conviva.com
-pinterest.com
 placehold.it
 placeholdit.imgix.net
 players.brightcove.net
@@ -152,11 +144,9 @@ secure.brightcove.com
 secure.surveymonkey.com
 services.sonarr.tv
 s.gateway.messenger.live.com
-sharepoint.com
 skyhook.sonarr.tv
 s.marketwatch.com
 spclient.wg.spotify.com
-s.shopify.com
 ssl.p.jwpcdn.com
 staging.plex.tv
 status.plex.tv
@@ -176,16 +166,12 @@ traffic.libsyn.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
-twitter.com
 ui.skype.com
 video-stats.l.google.com
 videos.vidible.tv
 vidtech.cbsinteractive.com
-v.shopify.com
 widget-cdn.rpxnow.com
-wikipedia.org
 win10.ipv6.microsoft.com
-wordpress.com
 wp.com
 ws.audioscrobbler.com
 www.dataplicity.com
